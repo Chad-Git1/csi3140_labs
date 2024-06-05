@@ -20,3 +20,17 @@ function createGame(n) {
 
     return array;
 }
+
+function moveLeft(game){
+    let pacman = game.indexOf("C");
+
+    game[pacman] = "";
+
+    if (pacman === 0) {
+        game[game.length - 1] = "C";
+    } else {
+        game[pacman - 1] = "C";
+    }
+
+    return game;
+}
