@@ -1,0 +1,6 @@
+300240007 Chad Yassin
+300236645 Louka Papineau
+
+The game is available from the github repo : https://github.com/Chad-Git1/csi3140_labs/tree/main/lab05
+
+Thankyou for grading the assignement.
